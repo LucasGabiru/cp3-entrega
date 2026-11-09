@@ -1,0 +1,61 @@
+
+main {
+    padding: 40px 24px;
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+section {
+    margin-bottom: 60px;
+}
+
+h2 {
+    border-bottom: 2px solid #8b3fc7;
+    padding-bottom: 8px;
+}
+
+canvas {
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    background-color: #fff;
+    display: block;
+    margin-top: 16px;
+}
+
+.grafico-svg {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin-top: 16px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    background-color: #fff;
+}
+
+
+.forma-retangulo {
+    fill: #8b3fc7;
+    stroke: #4b1d70;
+    stroke-width: 3;
+}
+
+.forma-circulo {
+    fill: #ffb703;
+    stroke: #b5790a;
+    stroke-width: 3;
+}
+
+.forma-triangulo {
+    fill: #06d6a0;
+    stroke: #04956e;
+    stroke-width: 3;
+}
+
+/* ---------- Bloco de comparação Canvas x SVG ---------- */
+.comparacao {
+    background-color: #fff;
+    border-left: 4px solid #8b3fc7;
+    padding: 16px 20px;
+    border-radius: 4px;
+    line-height: 1.7;
+}

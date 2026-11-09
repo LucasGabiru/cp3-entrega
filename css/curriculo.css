@@ -1,0 +1,35 @@
+
+.Lucas {
+        text-align:center;
+        font-size:70px
+        }
+.Tec {
+        text-align:center;
+        font-size:40px
+        }
+p {
+            font-size:20px
+        }
+img{
+            border: 7px double black;
+            border-radius: 215;
+            
+        }
+table {
+    border-collapse: collapse;
+    width: 60%;
+}
+
+th, td {
+    border: 2px solid rgb(0, 0, 0);
+    padding: 10px;
+    text-align: center
+}
+
+th {
+    background-color: lightgray;
+}
+.p1 
+{
+ width:80%   
+}
